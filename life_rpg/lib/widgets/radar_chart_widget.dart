@@ -3,7 +3,6 @@
 /// Widget que muestra un gráfico radar para visualizar
 /// el progreso del usuario en distintas categorías,
 /// basado en las tareas completadas.
-/// -----------------------------------------------
 /// Utiliza la librería fl_chart para mostrar el radar.
 /// Cada categoría tiene un valor entre 0 y 5 basado en
 /// la proporción de tareas completadas.
@@ -28,7 +27,7 @@ class RadarChartWidget extends StatelessWidget {
     required this.categories,
   });
 
-  /// Calcula el puntaje total de una categoría basado en puntos (normalizado 0-5)
+  /// Calcula el puntaje total de una categoría basado en puntos
   double _calculateNormalizedScore(int categoryId) {
     final catTasks = tasks.where((t) => t.categoryId == categoryId);
     if (catTasks.isEmpty) return 0;

@@ -14,7 +14,7 @@ import 'package:flutter/material.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'screens/auth/login_register.dart';
 import 'screens/dashboard/dashboard_screen.dart';
-import 'models/user_model.dart'; // Import the User class
+import 'models/user_model.dart';
 
 void main() {
   // Inicializar soporte SQLite en escritorio

@@ -34,7 +34,7 @@ class PlayerInfoCard extends StatelessWidget {
         padding: const EdgeInsets.all(16),
         child: Row(
           children: [
-            /// Avatar circular del jugador con borde blanco para mejor contraste
+            /// Avatar del usuario con borde blanco y fondo morado
             Container(
               decoration: BoxDecoration(
                 color: Colors.deepPurpleAccent, // fondo morado
@@ -53,7 +53,7 @@ class PlayerInfoCard extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  /// Nombre del jugador en blanco, fuente más grande
+                  /// Nombre del usuario en color blanco y negrita
                   Text(
                     user.name,
                     style: Theme.of(context).textTheme.headlineSmall?.copyWith(
@@ -63,7 +63,7 @@ class PlayerInfoCard extends StatelessWidget {
                   ),
                   const SizedBox(height: 6),
 
-                  /// Nivel y experiencia en color blanco con opacidad para menor énfasis
+                  /// Nivel y experiencia en color blanco
                   Text(
                     "XP total: ${user.totalXP}",
                     style: TextStyle(color: Colors.white70),

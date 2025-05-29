@@ -3,7 +3,6 @@
 /// Widget que muestra una lista de barras de progreso
 /// representando el avance en cada habilidad (categoría)
 /// basado en la proporción de tareas completadas.
-/// -----------------------------------------------
 /// Muestra el nombre de la categoría y porcentaje completado,
 /// junto con una barra de progreso visual.
 /// -----------------------------------------------
@@ -26,7 +25,7 @@ class SkillProgressList extends StatelessWidget {
     required this.categories,
   });
 
-  /// Retorna la suma de puntos para una categoría, normalizada entre 0 y 1
+  /// Retorna la suma de puntos para una categoría
   double _calculateProgress(int categoryId) {
     final catTasks = tasks.where((t) => t.categoryId == categoryId);
     if (catTasks.isEmpty) return 0.0;
