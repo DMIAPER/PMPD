@@ -1,0 +1,62 @@
+name: life_rpg
+description: Aplicación de gestión de tiempo gamificada con sistema de progreso tipo RPG.
+
+# Versión de la aplicación (major.minor.patch+build)
+version: 1.0.0+1
+
+# Configuración del entorno SDK
+environment:
+  sdk: ">=3.7.2 <4.0.0"
+  flutter: ">=3.18.0"
+
+# Dependencias principales
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.19.0
+
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  provider: ^6.0.5
+  shared_preferences: ^2.2.2
+  sqflite_common_ffi: ^2.3.0
+  flutter_radar_chart: 0.2.1
+  fl_chart: ^0.63.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0   # Análisis estático de código
+  build_runner: ^2.4.6    # Para generación de código (opcional)
+  flutter_launcher_icons: ^0.14.3  # Generación de íconos de la aplicación
+
+# Configuración específica de Flutter
+flutter:
+  uses-material-design: true
+  
+  # Assets (archivos estáticos)
+  assets:
+    - assets/avatars/avatar1.png
+    - assets/avatars/avatar2.png
+    - assets/avatars/avatar3.png
+    - assets/avatars/avatar4.png
+    - assets/avatars/avatar5.png
+    
+  # Fuentes personalizada
+  fonts:
+    - family: MedievalSharp
+      fonts:
+        - asset: assets/fonts/medievalsharp.ttf
+
+# Configuración para generación de ícono de la aplicación
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  remove_alpha_ios: true   # Esto quita transparencia en iOS para evitar rechazo en App Store
