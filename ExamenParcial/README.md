@@ -1,4 +1,4 @@
-# Examen Parcial: Desarrollo de Aplicación Android de Gestión de Vuelos
+# Desarrollo de Aplicación Android de Gestión de Vuelos
 
 ## Objetivo
 Desarrollar una aplicación Android para la gestión de vuelos que permita registrar y visualizar información de vuelos comerciales.
