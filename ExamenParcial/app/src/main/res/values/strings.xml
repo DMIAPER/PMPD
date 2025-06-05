@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Examen Parcial Diógenes</string>
+    <string name="cerrar">Cerrar</string>
+
+    <!--Layout MainActivity -->
+    <string name="description">Logo de la empresa de viajes</string>
+    <string name="origen">Seleccione el origen</string>
+    <string name="destino">Seleccione el destino</string>
+    <string name="numpax">Indique el número de pasajeros</string>
+    <string name="placeNumber">N.º pax</string>
+    <string name="btReserva">RESERVAR</string>
+    <string name="btRegistros">REGISTROS</string>
+    <!--Lista items para spinner-->
+    <string-array name="ciudades">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>París</item>
+        <item>Londres</item>
+        <item>Bilbao</item>
+    </string-array>
+
+    <!--Layout ActivityReserva -->
+    <string name="reserva">RESERVA</string>
+    <string name="orig">Origen:</string>
+    <string name="dest">Destino:</string>
+    <string name="pax">Pasajeros:</string>
+    <string name="btVolver">VOLVER</string>
+    <!--Layout ActivityRegistro -->
+    <string name="tiReg">LISTADO DE RESERVAS</string>
+</resources>
