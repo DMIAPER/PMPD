@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">El adivino</string>
+    <string name="titulo">Adivine un número entre 1 y 25</string>"
+    <string name="puntuacion">Puntuación:</string>
+    <string name="numPunt">0</string>
+    <string name="hide_button">Introduzca un número</string>
+    <string name="button">COMPROBAR</string>
+</resources>

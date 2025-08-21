@@ -1,0 +1,24 @@
+<resources>
+    <!--Strings Formularios-->
+    <string name="app_name">Calculdadora IMC - Diogenes</string>
+    <string name="namDev">DIÓGENES MIAJA PÉREZ</string>
+    <string name="mensaje">Introduzca sus datos</string>
+    <string name="titulo">CALCULADORA DE ÍNDICE DE MASA CORPORAL</string>
+    <string name="nombre">Nombre:</string>
+    <string name="hintNombre">Introudzca su nombre</string>
+    <string name="altura">Altura (cm)</string>
+    <string name="hintAltura">Introduzca su altura</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="hintPeso">Introduzca su peso</string>
+    <string name="calcular">Calcular IMC</string>
+    <string name="ivSplash">Imagen con descripción de valores de masa corporal</string>
+    <string name="ivSplashInicio">Imagen de logo corporativo</string>
+    <!--Strings para la pantalla de resultados-->
+    <string name="titResultado">ÍNDICE DE MASA CORPORAL</string>
+    <string name="menResultdo">tu IMC indica</string>
+    <string name="alturaResult">Altura:</string>
+    <string name="pesoResult">Peso:</string>
+    <string name="imcResult">Tu IMC es:</string>
+    <string name="menResumen">Resumen IMC</string>
+    <string name="imgRDescription">Tabla de valores de IMC</string>
+</resources>

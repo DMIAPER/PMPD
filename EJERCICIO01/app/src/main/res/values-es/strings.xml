@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="titulo">Tarea 3.1 - Datos del Alumno</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="email">Email:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="tfnombre">Nombre</string>
+    <string name="tfapellidos">Apellidos</string>
+    <string name="tfemail">Email</string>
+    <string name="tftelefono">Teléfono</string>
+    <string name="btmostrar">Mostar</string>
+</resources>

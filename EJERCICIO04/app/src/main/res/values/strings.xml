@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestor Imágenes</string>
+    <string name="titulo">Tarea 3.4 - Diógenes Miaja Pérez</string>
+    <string name="boton">CAMBIAR IMAGEN</string>
+    <string name="checkBox">Deshabilitar botón</string>
+    <string name="radioButton1">Mostrar Imagen</string>
+    <string name="radioButton2">Ocultar Imagen</string>
+    <string name="descripcion1">Campo de lavanda en Francia con mujer</string>
+    <string name="descripcion2">Campo de lavanda en Francia</string>
+    <string name="descripcion3">Campos de tulipanes en Paises Bajos</string>
+    <string name="descripcion4">Campos de trigo en España</string>
+    <string name="descripcion5">Campos de arroz en Vietnam</string>
+    <string name="descripcion6">Campos de agave en México</string>
+    <string name="descripcion7">Campos de tabaco en Cuba</string>
+    <string name="descripcion8">Campos de maíz en Estados Unidos</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora Básica</string>
+    <string name="titulo">Tarea 3.2 - Diógenes Miaja Pérez</string>
+    <string name="titulo2">Calculadora</string>
+    <string name="operador1">Operador 1</string>
+    <string name="operador2">Operador 2</string>
+    <string name="sumar">+</string>
+    <string name="restar">-</string>
+    <string name="multiplicar">x</string>
+    <string name="dividir">/</string>
+    <string name="resultado">Resultado</string>
+    <string name="borrar">Limpiar campos</string>
+</resources>

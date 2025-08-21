@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Libros</string>
+    <string name="titulo">Biblioteca de libros</string>
+    <string name="contacto">Contacto</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="acerca">Acerca de</string>
+</resources>

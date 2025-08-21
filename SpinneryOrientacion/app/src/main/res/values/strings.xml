@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner de Diógenes</string>
+    <string name="selec">Seleccionar Color</string>
+    <string name="dRojo">El color seleccionado es Rojo</string>
+    <string name="dAzul">El color seleccionado es Azul</string>
+    <string name="dVerde">El color seleccionado es Verde</string>
+    <string name="dNaranja">El color seleccionado es Naranja</string>
+
+    <string-array name="selector_colors">
+        <item>lista de colores</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Naranja</item>
+    </string-array>
+
+</resources>

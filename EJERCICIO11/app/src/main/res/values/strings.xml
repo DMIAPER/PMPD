@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea 11 - Diógenes</string>
+    <string name="titulo">Mars Rover Photos</string>
+    <string name="labeApiKey">Escribe tu API Key aquí</string>
+    <string name="campoApiKey">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+    <string name="cargarKey">CAGAR API KEY</string>
+    <string name="labeImg">Seleccion el númeror de la imagen</string>
+    <string name="labeImage">MOSTRAR IMAGEN</string>
+</resources>

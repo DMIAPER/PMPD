@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Seasons of the Year - Diógenes</string>
+    <string name="vistav">Vertical View</string>
+    <string name="vistah">Horizontal View</string>
+    <string name="otonio">AUTUMN</string>
+    <string name="invierno">WINTER</string>
+    <string name="primavera">SPRINGS</string>
+    <string name="verano">SUMMER</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--Colores adicionales-->
+    <color name="texto">#353535</color>
+    <color name="azul">#3F51B5</color>
+    <color name="tvRed">#FF0000</color>
+</resources>

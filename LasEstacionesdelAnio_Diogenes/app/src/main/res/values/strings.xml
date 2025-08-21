@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Las Estaciones del Año - Diógenes</string>
+    <string name="vistav">Vista vertical</string>
+    <string name="vistah">Vsta horizontal</string>
+    <string name="otonio">OTOÑO</string>
+    <string name="invierno">INVIERNO</string>
+    <string name="primavera">PRIMAVERA</string>
+    <string name="verano">VERANO</string>
+</resources>

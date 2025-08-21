@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaView Diógenes</string>
+    <string name="mensaje">Seleccina una ciudad</string>
+    <string-array name="habitantes">
+        <item>3,277 millones</item>
+        <item>1,628 milllones</item>
+        <item>788.842 millones</item>
+        <item>684.340 millones</item>
+    </string-array>
+</resources>

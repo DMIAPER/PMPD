@@ -1,0 +1,14 @@
+<resources>
+    <!--Título de la aplicación -->
+    <string name="app_name">Video y Audio - Diógenes Miaja Pérez</string>
+
+    <!--Strings para le reproductor del video-->
+    <string name="video_title">Reproducción Video</string>
+
+    <!--Strings para la parte de audio -->
+    <string name="audio_title">Reproducción audio con botones control</string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_pause">PAUSA</string>
+    <string name="btn_continue">CONTINUAR</string>
+    <string name="btn_stop">DETENER</string>
+</resources>

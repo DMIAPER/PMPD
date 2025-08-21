@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Agenda de Contactos</string>
+    <!--Splash Screen-->
+    <string name="titulo">Agenda de Contactos \n By Diógenes Miaja</string>
+    <string name="imgDescrSplash">Icono de la app</string>
+    <!--Layout principal -->
+    <string name="tituloPrincipal">AGENDA</string>
+    <!--Layout agregar contacto-->
+    <string name="tituloNuevo">NUEVO CONTACTO</string>
+    <string name="label_id_N">id</string>
+    <string name="labelNombre_N">Nombre</string>
+    <string name="nombre_hide_N">Introduzca su Nombre</string>
+    <string name="labelApellido_N">Apellido</string>
+    <string name="apellido_hide_N">Introduzca su Apellido</string>
+    <string name="labelTelefono_N">Teléfono</string>
+    <string name="telefono_hide_N">Introduzca su Teléfono</string>
+    <string name="labelCorreo_N">E-Mail</string>
+    <string name="correo_hide">Introduzca su Email</string>
+    <string name="btnAgregar">CREAR</string>
+    <string name="btnCancelar">CANCELAR</string>
+    <!--Layout modificar contacto-->
+    <string name="tituloModificar">MODIFICAR CONTACTO</string>
+    <string name="btnModificar">MODIFICAR</string>
+    <!--Mení-->
+    <string name="agregarContacto">agregar_contacto</string>
+</resources>

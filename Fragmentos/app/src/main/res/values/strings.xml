@@ -1,0 +1,24 @@
+<resources>
+    <!--String del nombre de la aplicación-->
+    <string name="app_name">Tarea 8 - Diógenes Miaja</string>
+
+    <!--Strings para los botones de la vista principal-->
+    <string name="btnCalc">Calculadora</string>
+    <string name="btnNav">Navegador</string>
+
+    <!--Strings para el fragmento Navegador-->
+    <string name="etHintNav">Escriba la URL...</string>
+    <string name="btnIr">IR</string>
+
+    <!--String para el fragmento Calculadora-->
+    <string name="etHintOpe1">Ingrese Operador 1</string>
+    <string name="etHintOpe2">Ingrese Operador 2</string>
+    <string name="btSumar">Sumar</string>
+    <string name="btRestar">Restar</string>
+    <string name="btMulti">Multiplicar</string>
+    <string name="btDividir">Dividir</string>
+    <string name="btOpe">OPERAR</string>
+    <string name="tvResult">Resultado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

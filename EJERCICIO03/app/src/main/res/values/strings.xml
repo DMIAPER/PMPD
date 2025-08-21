@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gestión de Cursos</string>
+    <string name="titulo1">Tarea 3.3 - Diógenes Miaja Pérez</string>
+    <string name="titulo2">GESTIÓN DE CURSOS</string>
+    <string name="titulo3">Selecciona un curso:</string>
+    <string name="curos1">Android (150€)</string>
+    <string name="curso2">Python (120)</string>
+    <string name="curso3">Unity (100)</string>
+    <string name="titulo4">Tipo de descuento:</string>
+    <string name="descuento1">Socio Oro (10%)</string>
+    <string name="descuento2">Socio Plata (5%)</string>
+    <string name="boton">CALCULAR</string>
+</resources>

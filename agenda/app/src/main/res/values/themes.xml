@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AgendaDeContactos" parent="Theme.Design.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/azulito</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="Theme.AgendaDeContactos" parent="Base.Theme.AgendaDeContactos"/>
+</resources>
